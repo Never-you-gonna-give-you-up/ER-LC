@@ -1,0 +1,24 @@
+.facts  {
+    background-color: aqua;
+    color: purple;
+    border-bottom: 10px dotted red;
+    border-top: 10px dotted blue;
+    border-left: 10px dotted orange;
+    border-right: 10px dotted orange;
+}
+.main {
+    background-color: darkgreen;
+    color: blueviolet;
+    border-bottom: 10px dotted orangered;
+    border-top: 10px dotted orangered;
+    border-left: 10px dotted blue;
+    border-right: 10px dotted blue;
+}
+.passes {
+    background-color: darkcyan;
+    color: blue;
+    border-bottom: 10px dotted orangered;
+    border-top: 10px dotted orangered;
+    border-left: 10px dotted blue;
+    border-right: 10px dotted blue;
+}
